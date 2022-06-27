@@ -1,0 +1,1 @@
+require(`gatsby/dist/schema/graphql-engine/standalone-regenerate`)

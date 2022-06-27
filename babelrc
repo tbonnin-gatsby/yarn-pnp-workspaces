@@ -1,0 +1,32 @@
+{
+  "ignore": [
+    "node_modules"
+  ],
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "targets": {
+          "node": "current",
+          "browsers": "defaults and not op_mini all"
+        },
+        "loose": true
+      }
+    ],
+    "@babel/preset-react",
+    "@babel/typescript"
+  ],
+  "plugins": [
+    [
+      "@babel/plugin-proposal-decorators",
+      {
+        "legacy": true
+      }
+    ],
+    "@babel/plugin-proposal-throw-expressions",
+    "@babel/plugin-proposal-export-default-from",
+    "@babel/plugin-proposal-do-expressions",
+    "@babel/plugin-proposal-function-bind",
+    "@babel/transform-runtime"
+  ]
+}
