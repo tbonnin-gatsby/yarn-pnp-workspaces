@@ -19770,14 +19770,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],\
       ["webpack", [\
         ["npm:5.72.1", {\
-          "packageLocation": "./.yarn/unplugged/webpack-virtual-ae4767f119/node_modules/webpack/",\
+          "packageLocation": "./.yarn/cache/webpack-npm-5.72.1-d6264f264b-d1eff085ee.zip/node_modules/webpack/",\
           "packageDependencies": [\
             ["webpack", "npm:5.72.1"]\
           ],\
           "linkType": "SOFT"\
         }],\
         ["virtual:01e185aa3b18c40f7787bf8e2b25a3c78f341c1e1ad481f2556c392a4ef5db6c027788be50d75c78a564a965d43d9d5bf1e8b104b20c9fcbd1745e904f9ca5e5#npm:5.72.1", {\
-          "packageLocation": "./.yarn/unplugged/webpack-virtual-ae4767f119/node_modules/webpack/",\
+          "packageLocation": "./.yarn/__virtual__/webpack-virtual-ae4767f119/0/cache/webpack-npm-5.72.1-d6264f264b-d1eff085ee.zip/node_modules/webpack/",\
           "packageDependencies": [\
             ["webpack", "virtual:01e185aa3b18c40f7787bf8e2b25a3c78f341c1e1ad481f2556c392a4ef5db6c027788be50d75c78a564a965d43d9d5bf1e8b104b20c9fcbd1745e904f9ca5e5#npm:5.72.1"],\
             ["@types/eslint-scope", "npm:3.7.3"],\

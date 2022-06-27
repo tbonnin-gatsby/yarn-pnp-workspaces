@@ -15664,9 +15664,6 @@ __metadata:
 "yarn-pnp3@workspace:.":
   version: 0.0.0-use.local
   resolution: "yarn-pnp3@workspace:."
-  dependenciesMeta:
-    webpack@5.72.1:
-      unplugged: true
   languageName: unknown
   linkType: soft
 

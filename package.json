@@ -3,10 +3,5 @@
   "packageManager": "yarn@3.2.1",
   "workspaces": [
     "nested-twice/site"
-  ],
-  "dependenciesMeta": {
-    "webpack@5.72.1": {
-      "unplugged": true
-    }
-  }
+  ]
 }
